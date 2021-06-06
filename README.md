@@ -1,2 +1,2 @@
 # background-generator
-Create different coloured backgrounds in CSS and javascript
+Create different coloured CSS backgrounds in javascript
